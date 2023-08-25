@@ -28,4 +28,7 @@ Luca Bisanti, 19<br>IMS Luzern / BBZW Sursee<br>
 <p align='left'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" height="50" alt=".net">
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="50" alt="docker"> 
+<img src="https://marcas-logos.net/wp-content/uploads/2020/11/Unity-logo.png" height="50" alt="unity">
+<img src="https://download.blender.org/branding/blender_logo_socket.png" height="50" alt="Blender">
+
 </p>
